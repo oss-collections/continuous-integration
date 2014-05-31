@@ -1,0 +1,12 @@
+[submodule "cruisecontrol.rb"]
+	path = cruisecontrol.rb
+	url = https://github.com/thoughtworks/cruisecontrol.rb.git
+[submodule "hudson"]
+	path = hudson
+	url = git://git.eclipse.org/gitroot/hudson/org.eclipse.hudson.core.git
+[submodule "jenkins"]
+	path = jenkins
+	url = https://github.com/jenkinsci/jenkins.git
+[submodule "travis-ci"]
+	path = travis-ci
+	url = https://github.com/travis-ci/travis-ci.git
